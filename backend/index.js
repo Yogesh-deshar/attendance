@@ -56,7 +56,7 @@ app.listen(3000);
 
 mongoose
   .connect(
-    "mongodb+srv://ZadX0:9803399244@cluster0.zn66aso.mongodb.net/Node-API"
+    "mongodb+srv://ZadX0:9803399244555@cluster0.zn66aso.mongodb.net/Node-API"
   )
   .then(() => {
     console.log("Connected to MongoDB");
